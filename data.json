@@ -1,0 +1,100 @@
+{
+    "helpadmin": {
+        "*adminlist": "Mostra (por mensagem privada) os utilizadores com total permiss\u00e3o no bot",
+        "*memedel": "Deleta um certo meme com uma certa tag do bot",
+        "*memeadd": "Adiciona um link de um meme ao bot com uma certa tag",
+        "*botgame": "Altera o jogo que o bot est\u00e1 a jogar",
+        "*buildadd": "Adiciona um link de uma build ao bot com uma certa tag",
+        "*builddel": "Deleta um certo build com uma certa tag do bot",
+        "*setavatar": "Muda o avatar do bot (o link tem de dar para uma imagem quadrada)"
+    },
+    "memes": {
+        "diabeetus": "https://www.youtube.com/watch?v=5hpSenoXW4o",
+        "cerebro": "https://imgur.com/a/sRKksKa",
+        "bomb": "https://i.imgur.com/vuj6tXY.jpg",
+        "doggoattac": "https://i.imgur.com/HtW1a5W.jpg",
+        "prequel": "http://prntscr.com/lfd6iw",
+        "lenny": "( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)",
+        "bugvanguard": "https://forums.warframe.com/topic/1026905-ventkids-standings-issues/",
+        "datass": "https://imgur.com/a/LX9yIGd"
+    },
+    "builds": {
+        "Tigris": {
+            "categ": "Primaria",
+            "link": "https://i.imgur.com/N4mZJRd.jpg",
+            "desc": ""
+        },
+        "Destreza": {
+            "categ": "Melee",
+            "link": "https://i.imgur.com/gOtNZku.jpg"
+        },
+        "Dread": {
+            "categ": "Primaria",
+            "link": "https://i.imgur.com/7ZRfY8L.jpg"
+        },
+        "Nikana": {
+            "categ": "Melee",
+            "link": "https://i.imgur.com/CyKZ5VC.jpg"
+        },
+        "Banshee": {
+            "categ": "Warframe",
+            "link": "https://i.imgur.com/TEbCKMr.jpg"
+        },
+        "Boltor": {
+            "categ": "Primaria",
+            "link": "https://i.imgur.com/JyIBlcT.jpg"
+        },
+        "Tekko": {
+            "categ": "Melee",
+            "link": "https://i.imgur.com/MJjWgC9.jpg"
+        },
+        "Akstiletto": {
+            "categ": "Secundaria",
+            "link": "https://i.imgur.com/8tAT6GZ.jpg"
+        },
+        "Sicarus": {
+            "categ": "Secundaria",
+            "link": "https://i.imgur.com/vOa0qHP.jpg"
+        },
+        "Aklex": {
+            "categ": "Secundaria",
+            "link": "https://i.imgur.com/y75b1TW.jpg"
+        },
+        "Pyrana": {
+            "categ": "Secundaria",
+            "link": "https://i.imgur.com/4ibn9KI.jpg"
+        },
+        "Secura_Dual_Cestra": {
+            "categ": "Secundaria",
+            "link": "https://i.imgur.com/sVrk9if.jpg"
+        },
+        "Nami_Skyla": {
+            "categ": "Melee",
+            "link": "https://i.imgur.com/XnzLAzI.jpg"
+        }
+    },
+    "admins": {
+        "ItsJangoPT": "181073830242942977",
+        "Leks": "183724145408737280",
+        "ItsWolfPT": "180943950922645504",
+        "KillByte": "181002804813496320"
+    },
+    "help": {
+        "*join": "Adiciona o bot ao canal de voz em que se encontra o autor do comando",
+        "*build": "Comando que devolve um build espec\u00edfico dada uma tag",
+        "*resume": "D\u00e1 play de uma musica em pausa",
+        "*avatar": "Mostra o avatar de quem enviou o comando ou de alguem se for mencionado",
+        "*pause": "Para qualquer musica em andamento",
+        "*leave": "Remove o bot do canal de voz",
+        "*buildlist": "Mostra todos os builds guardados no bot",
+        "*queue": "Adiciona uma musica \u00e0 fila de espera ",
+        "*plat": "Recebe um numero de platinas e calcula o seu valor m\u00e9dio (tambem recebe opcionalmente o valor do desconto das platinas em percentagem)",
+        "*stop": "Para qualquer musica que esteja a dar no bot ou passa para a pr\u00f3xima caso tenha uma fila de musicas",
+        "*echo": "O bot repete o que for escrito a seguir e apagar a mensagem do autor",
+        "*play": "D\u00e1 play de uma musica no canal de voz ... se nao estiver faz *join enquanto estas no canal",
+        "*quickMafs": "Everyday mans on the block... SmOkE tReEs",
+        "*memelist": "Mostra todos os memes guardados no bot",
+        "*ducats": "Dado um numero de ducats devolve o numero de pe\u00e7as, ducats e platinas necess\u00e1rias de comprar para ter esse m\u00ednimo de ducats",
+        "*meme": "Comando que devolve um meme random ou um espec\u00edfico se lhe for dada uma tag"
+    }
+}
